@@ -21,7 +21,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 # НАСТРОЙКИ
 # ============================================================
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "ВСТАВЬ_СЮДА_ТОКЕН_БОТА")
+BOT_TOKEN = os.getenv("8632883159:AAH8ApaMDa8sBBypTLSvSc4UxkkBA9pUNzw", "8632883159:AAH8ApaMDa8sBBypTLSvSc4UxkkBA9pUNzw")
 
 ADMIN_USERNAME = "nazpab"
 
