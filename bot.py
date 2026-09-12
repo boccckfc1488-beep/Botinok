@@ -75,7 +75,7 @@ def init_db():
 # BOT / DP
 # ============================================================
 
-bot = Bot(BOT_TOKEN)
+bot = Bot(8632883159:AAH8ApaMDa8sBBypTLSvSc4UxkkBA9pUNzw)
 dp = Dispatcher()
 
 
